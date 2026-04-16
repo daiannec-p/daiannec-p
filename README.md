@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+## Olá! Eu sou o Daianne | Hello! I am Daianne 👋
+
+💻 Support Engineer
+🚀 Microsoft 365 | Identity | Teams | Exchange | Security | Compliance
+📍 Brazil
+
 <!--
 **daiannec-p/daiannec-p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
